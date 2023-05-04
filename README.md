@@ -13,6 +13,7 @@ color(v)\;\forall\;(u, v) \in E$?
 ### Brute-force and Heuristic Algorithms
 
 A brute-force algorithm for an NP-Complete problem is one that will always find the correct answer but does not run in polynomial time.
+
 A heuristic algorithm for an NP-Complete problem, on the other hand, will run in polynomial time, but is not always definitively correct. It instead provides an estimate.
 
 ### NP-Complete Mappings
@@ -27,6 +28,8 @@ This project offers four functions:
   4. A mapping from 3-SAT to the Vertex Coloring Decision Problem
 
 A C++ script was used to implement each of these.
+
+A more detailed analysis of this project's algorithms and results can be found in `paper.pdf`.
 
 ## Overview
 
