@@ -7,8 +7,7 @@
 The Vertex Coloring problem (or k-coloring problem) is an NP-Complete problem that poses the following question:
 
 Given undirected graph $G = (V, E)$ with unweighted edges, does there exist an assignment of at
-most $k$ colors to the vertices such that $color(u) \neq
-color(v)\;\forall\;(u, v) \in E$?
+most $k$ colors to the vertices such that $color(u) \neq color(v) \forall (u, v) \in E$?
 
 ### Brute-force and Heuristic Algorithms
 
