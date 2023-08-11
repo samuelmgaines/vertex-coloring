@@ -44,7 +44,7 @@ The main interface for the first two functions of this project can be found in `
 
 ### Given Input Files
  - `data/3sat-ejyohannan-hard-3sat.dat`: 3-SAT problem provided by EJ Yohannan that fails on his 3-SAT heuristic
- - `data/3sat-ejyohannan-intractable-3sat.dat`: 3-SAT problem provided by EJ Yohannan that is intractable for his 3-SAt brute-force algorithm
+ - `data/3sat-ejyohannan-intractable-3sat.dat`: 3-SAT problem provided by EJ Yohannan that is intractable for his 3-SAT brute-force algorithm
  - `data/3sat-hc-k3.dat`: 3-SAT problem resulting from a mapping of the 3-coloring problem `vc-hc.dat`
  - `data/3sat-hc-k4.dat`: 3-SAT problem resulting from a mapping of the 4-coloring problem `vc-hc.dat`
  - `data/3sat-intractable-random-graph-k3.dat`: 3-SAT problem resulting from a mapping of the 3-coloring problem `vc-intractable-random-graph.dat`
